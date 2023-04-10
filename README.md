@@ -1,1 +1,2 @@
-# practica-PharmaReactives
+# PharmaReactives
+Aplicație web inovatoare pentru industria farmaceutică, care facilitează comandarea substanțelor reactive necesare pentru producerea de medicamente. Aceasta oferă o interfață utilizator intuitivă, scalabilă și performantă, bazată pe o arhitectură MVC și tehnologii moderne precum Spring Boot și MySQL. Cu ajutorul PharmaReactives, utilizatorii pot accesa informații detaliate despre substanțele reactive disponibile, pot efectua căutări personalizate și pot plasa comenzi rapid și ușor. PharmaReactives este soluția ideală pentru a îmbunătăți eficiența și performanța procesului de producție de medicamente.
